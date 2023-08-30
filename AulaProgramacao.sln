@@ -15,11 +15,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fibonacci", "Fibonacci\Fibo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "soma", "soma\soma.csproj", "{49718CB6-BFB0-46D9-95C8-305E147AEF2E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ParImpar", "ConsoleApp1\ParImpar.csproj", "{262FA020-AA19-4023-B3DC-5DE1F72F3CC2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ParImpar", "ParImpar\ParImpar.csproj", "{262FA020-AA19-4023-B3DC-5DE1F72F3CC2}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "deAparaB", "deAparaB\deAparaB.csproj", "{BDEB422D-EE17-45B5-B384-5EFDC63BD9E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Primo", "Primo\Primo.csproj", "{86940C0C-B6E1-4056-B13F-68DD7C9E5A28}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Primo", "Primo\Primo.csproj", "{86940C0C-B6E1-4056-B13F-68DD7C9E5A28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tabuada", "Tabuada\Tabuada.csproj", "{C384BECA-435E-49DA-89CD-98CD5F5B246F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{86940C0C-B6E1-4056-B13F-68DD7C9E5A28}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{86940C0C-B6E1-4056-B13F-68DD7C9E5A28}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{86940C0C-B6E1-4056-B13F-68DD7C9E5A28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C384BECA-435E-49DA-89CD-98CD5F5B246F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C384BECA-435E-49DA-89CD-98CD5F5B246F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C384BECA-435E-49DA-89CD-98CD5F5B246F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C384BECA-435E-49DA-89CD-98CD5F5B246F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
