@@ -21,7 +21,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "deAparaB", "deAparaB\deApar
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Primo", "Primo\Primo.csproj", "{86940C0C-B6E1-4056-B13F-68DD7C9E5A28}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tabuada", "Tabuada\Tabuada.csproj", "{C384BECA-435E-49DA-89CD-98CD5F5B246F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tabuada", "Tabuada\Tabuada.csproj", "{C384BECA-435E-49DA-89CD-98CD5F5B246F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JogoDaForca", "JogoDaForca\JogoDaForca.csproj", "{1ECAC263-1725-40CD-886A-A03014D784B6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{C384BECA-435E-49DA-89CD-98CD5F5B246F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C384BECA-435E-49DA-89CD-98CD5F5B246F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C384BECA-435E-49DA-89CD-98CD5F5B246F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1ECAC263-1725-40CD-886A-A03014D784B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ECAC263-1725-40CD-886A-A03014D784B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ECAC263-1725-40CD-886A-A03014D784B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ECAC263-1725-40CD-886A-A03014D784B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
